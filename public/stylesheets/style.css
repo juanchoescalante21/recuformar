@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10px 0;
+ /* background-image: url("/images/matrix.jpg");*/
+  background-attachment: fixed;
+  background-size: cover;
+ 
+
+}
+
+a {
+  color: #00B7FF;
+}
+header, header nav{
+  height: 100px;
+}
+
+header img.logo{
+    width: 50px;
+}
+
+
+/* detalle de producto */
+
+.body-detalle{
+
+}
+
+
+
+
+.body-detalle img.imagen-producto{
+  width: 40%;
+
+}
